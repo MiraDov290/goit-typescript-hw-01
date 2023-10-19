@@ -1,0 +1,23 @@
+{
+  "name": "goit-typescript-hw-01",
+  "version": "1.0.0",
+  "description": "npm install -g typescript\r tsc --init\r tsc\r tsc -w\r npm init -y\r npm i --save-dev @web/dev-server\r \"scripts\": { \"start\": \"web-dev-server --node-resolve --open --watch\" },",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiraDov290/goit-typescript-hw-01.git"
+  },
+  "homepage": "https://github.com/MiraDov290/goit-typescript-hw-01#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+   "bugs": {
+    "url": "https://github.com/MiraDov290/goit-typescript-hw-01/issues"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.3.4"
+  }
+}
